@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+dist/
+build/
+.next/
+.turbo/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+
+# Generated data and model artifacts
+*.log
+*.tmp
+checkpoints/
+weights/
+outputs/
